@@ -4,7 +4,7 @@
 
 
 ## 环境要求 (Requirements)
-在 M 芯片 MacBook 上运行此代码，主要依赖库查看requirement.txt
+在 M 芯片 MacBook 上运行此代码，主要依赖库查看requirements.txt
 
 
 ## 数据集说明 (Dataset)
